@@ -130,7 +130,7 @@
 "aggregations": {
   "books": {
     "count": 6,
-    "inventoryValue": 164259.59
+    "inventoryValue": 145405.55
   },
   "clothing": {
     "count": 2,
