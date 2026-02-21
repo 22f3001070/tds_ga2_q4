@@ -127,18 +127,25 @@
   }
 ],
 
-  "aggregations": {
-    "sports": {
-      "count": 1,
-      "inventoryValue": 8546.44
-    },
-    "electronics": {
-      "count": 2,
-      "inventoryValue": 45372.14
-    },
-    "stationery": {
-      "count": 5,
-      "inventoryValue": 13750.00
-    }
+"aggregations": {
+  "books": {
+    "count": 6,
+    "inventoryValue": 164259.59
+  },
+  "clothing": {
+    "count": 2,
+    "inventoryValue": 81013.26
+  },
+  "home": {
+    "count": 4,
+    "inventoryValue": 143441.19
+  },
+  "electronics": {
+    "count": 2,
+    "inventoryValue": 45296.43
+  },
+  "sports": {
+    "count": 1,
+    "inventoryValue": 8546.44
   }
 }
